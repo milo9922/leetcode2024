@@ -1,4 +1,4 @@
-package org.example.arrays.easy;
+package org.example.easy;
 
 /**
  * Problem description: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/

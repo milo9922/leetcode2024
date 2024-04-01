@@ -1,4 +1,4 @@
-package org.example.arrays.easy;
+package org.example.easy;
 
 /**
  * Problem description: https://leetcode.com/problems/concatenation-of-array/description/
