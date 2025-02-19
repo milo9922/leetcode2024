@@ -6,6 +6,7 @@ package org.example.medium;
  */
 public class MinimumNumberOfOperationsToMoveAllBallsToEachBox_1769 {
 
+    // O(n) = n^2
     public static int[] minOperations(String boxes) {
         int n = boxes.length();
         int [] distances = new int[n];
@@ -20,6 +21,7 @@ public class MinimumNumberOfOperationsToMoveAllBallsToEachBox_1769 {
         return distances;
     }
 
+    // O(n) = n
     public static int[] suffixCountApproach(String boxes) {
         int n = boxes.length();
         int[] distances = new int[n];
